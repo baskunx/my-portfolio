@@ -7,9 +7,8 @@
     text-decoration: none;
     border: none;
     outline: none;
-    font-family: 'Poppins','sans-serif'
+    font-family: 'Poppins', sans-serif;
 }
-
 
 html{
     font-size: 62.5%;
@@ -165,7 +164,7 @@ span{
 }
 
 .social-icons a:hover{
-    color: rgb(0, 0, 0);
+    color: black;
     transform: scale(1.3) translateY(-5px);
     background-color: #b74b4b;
     box-shadow: 0  0 25px #b74b4b;
@@ -239,7 +238,7 @@ span{
         content: "Web Developer";
     }
     81%, 100%{
-        content: "Web Developer";
+        content: "Web Developer ";
     }
 }
 
